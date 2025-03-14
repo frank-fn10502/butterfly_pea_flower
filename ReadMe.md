@@ -1,7 +1,9 @@
-# 📌 使用蝶豆花偵測 PH【 值預測專案
+# 📌 使用蝶豆花偵測 PH 值預測專案
+> [技術簡介](./PH_Prediction_Report.md)
 
 本專案使用 **深度學習 (Deep Learning)** 來 **分析蝶豆花水的顏色，預測 PH 值**。  
 透過 **TensorFlow + Keras** 訓練模型，並支援 **MobileNet、EfficientNetV2** 及 **客製化 CNN**，適用於小型資料集。
+
 
 ---
 
